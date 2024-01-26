@@ -1,0 +1,8 @@
+.Chat_Section_Structure {
+  width: 286px;
+  height: 100%;
+  flex-shrink: 0;
+  position: fixed;
+  margin-left: 76px;
+  background: #35356f;
+}
